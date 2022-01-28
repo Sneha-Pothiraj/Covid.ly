@@ -1,1 +1,1 @@
-# Covidly
+# Covid.ly
